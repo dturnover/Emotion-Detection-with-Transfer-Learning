@@ -15,4 +15,4 @@ One key feature of EfficientNet is its use of a novel convolutional block, calle
 
 However, a limitation of EfficientNet-B0 is that it requires a large amount of computational resources to train and deploy. EfficientNet models are large and complex, which can make them challenging to train on standard hardware. We can view the number of trainable parameters involved in our model construction: 4,016,515.  
 
-Usage: For the EffnetB0 model you can directly install the emotions dataset from Kaggle
+Usage: For the EffnetB0 model the notebook allows you to directly install the emotions dataset from Kaggle
